@@ -1,0 +1,19 @@
+[0629/162341:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0629/162341:ERROR:main_delegate.cc(564)] Could not load locale pak for zh-CN
+[0629/162341:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0629/162343:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0629/162343:ERROR:main_delegate.cc(564)] Could not load locale pak for zh-CN
+[0701/164404:WARNING:dns_config_service_win.cc(654)] Failed to read DnsConfig.
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
+[0701/191917:WARNING:message_in_transit_queue.cc(18)] Destroying nonempty message queue
